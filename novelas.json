@@ -1,0 +1,62 @@
+[
+    {
+        "Nome": "Top Model",
+        "Ano": 1989,
+        "Emissora": "Globo"
+    },
+
+    {
+        "Nome": "Carrossel",
+        "Ano": 1991,
+        "Emissora": "SBT"
+    },
+
+    {
+        "Nome": "Pantanal",
+        "Ano": 1990,
+        "Emissora": "Tv Manchete"
+    },
+
+    {
+        "Nome": "Barriga de Aluguel",
+        "Ano": 1990,
+        "Emissora": "Globo"
+    },
+
+    {
+        "Nome": "Tieta",
+        "Ano": 1989,
+        "Emissora": "Globo"
+    },
+
+    {
+        "Nome": "Éramos Seis",
+        "Ano": 1994,
+        "Emissora": "SBT"
+    },
+
+    {
+        "Nome": "Os Mutantes",
+        "Ano": 2007,
+        "Emissora": "Record"
+    },
+
+    {
+        "Nome": "Perigosas Peruas",
+        "Ano": 1992,
+        "Emissora": "Globo"
+    },
+
+    {
+        "Nome": "Xica da Silva ",
+        "Ano": 1996,
+        "Emissora": "Tv Manchete"
+    },
+
+    {
+        "Nome": "Que Rei Sou Eu",
+        "Ano": 1989,
+        "Emissora": "Globo"
+    }
+    
+]

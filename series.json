@@ -1,0 +1,62 @@
+[
+    {
+        "Título": "Grey's Anatomy",
+        "Ano": 2005,
+        "Temporadas": 17
+    },
+
+    {
+        "Título": "This is Us",
+        "Ano": 2016,
+        "Temporada": 5
+    },
+
+    {
+        "Título": "Upload",
+        "Ano": 2020,
+        "Temporada":1
+    },
+
+    {
+        "Título": "Vis a Vis",
+        "Ano":2015,
+        "Temporada":5
+    },
+
+    {
+        "Título": "The Walking Dead",
+        "Ano": 2010,
+        "Temporada": 10
+    },
+
+    {
+        "Título": "Orange Is The New Black",
+        "Ano": 2013,
+        "Temporada":7
+    },
+
+    {
+        "Título": "The L World",
+        "Ano": 2004,
+        "Temporada": 6
+    },
+
+    {
+        "Título": "How To Get Away With Murder",
+        "Ano": 2014,
+        "Temporada": 6
+    },
+
+    {
+        "Título": "Anne With An E",
+        "Ano": 2017,
+        "Temporada": 3
+    },
+
+    {
+        "Título": "La Casa de Papel",
+        "Ano": 2017,
+        "Temporada": 4
+    }
+    
+]

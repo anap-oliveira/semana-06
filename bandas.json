@@ -1,0 +1,62 @@
+[
+    {
+        "Nome":"Fresno",
+        "Estilo":"Emo",
+        "Nacionalidade":"Brasileira"
+    },
+
+    {
+        "Nome":"Legião Urbana",
+        "Estilo":"Pop Rock",
+        "Nacionalidade":"Brasileira"
+    },
+
+    {
+        "Nome":"Nirvana",
+        "Estilo":"Rock",
+        "Nacionalidade":"Americana"
+    },
+
+    {
+        "Nome":"The Cranberries",
+        "Estilo":"Indie",
+        "Nacionalidade": "Irlandesa"
+    },
+
+    {
+        "Nome":"Mamonas Assassinas",
+        "Estilo":"Pop Irreverente",
+        "Nacionalidade":"Brasileira"
+    },
+
+    {
+        "Nome":"Spice Girls",
+        "Estilo":"Pop",
+        "Nacionalidade":"Americana"
+    },
+
+    {
+        "Nome":"Back Street Boys",
+        "Estilo":"Pop",
+        "Nacionalidade":"Americana"
+    },
+
+    {
+        "Nome": "N'Sync",
+        "Estilo":"Pop",
+        "Nacionalidade":"Americana"
+    },
+
+    {
+        "Nome":"O Rappa",
+        "Estilo":"Rock",
+        "Nacionalidade":"Brasileira"
+    },
+
+    {
+        "Nome":"Kid Abelha",
+        "Estilo":"Pop",
+        "Nacionalidade":"Brasileira"
+    }
+    
+]
