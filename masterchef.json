@@ -1,0 +1,63 @@
+[
+    {
+        "Participante": "Irina Cordeiro",
+        "Ano": 2017,
+        "Status": "Eliminado"
+    },
+
+    {
+        "Participante": "Hugo Merchan",
+        "Ano": 2018,
+        "Status": "Vice Campeão"
+    },
+
+    {
+        "Participante": "Dayse Paparoto",
+        "Ano": 2016,
+        "Status": "Vencedora"
+    },
+
+    {
+        "Participante": "Estefano Zaquini",
+        "Ano": 2014,
+        "Status": "Eliminado"
+    },
+
+    {
+        "Participante": "Thales Alves",
+        "Ano": 2018,
+        "Status": "Eliminado"
+    },
+
+    {
+        "Participante": "Rodrigo Massoni",
+        "Ano": 2019,
+        "Status": "Vencedor"
+    },
+
+    {
+        "Participante": "Maria Antonia",
+        "Ano": 2018,
+        "Status": "Vencedora"
+    },
+
+    {
+        "Participante":"Raul Lemos",
+        "Ano": 2015,
+        "Status": "Vice Campeão"
+    },
+
+    {
+        "Participante": "Lorena Dayse",
+        "Ano": 2019,
+        "Status": "Vice Campeã"
+    },
+
+    {
+        "Participante": "Elisa Fernandes",
+        "Ano": 2014,
+        "Status": "Vencedora"
+    }
+
+    
+]

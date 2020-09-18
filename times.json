@@ -1,0 +1,62 @@
+[
+    {
+        "Nome": "Corinthians",
+        "Região": "Sudeste",
+        "Mascote": "Mosqueteiro"
+    },
+
+    {
+        "Nome": "Sport",
+        "Região": "Nordeste",
+        "Mascote": "Leão"
+    },
+
+    {
+        "Nome": "Grêmio",
+        "Região": "Sul",
+        "Mascote": "Mosqueteiro"
+    },
+
+    {
+        "Nome": "Flamengo",
+        "Região": "Sudeste",
+        "Mascote": "Urubu"
+    },
+
+    {
+        "Nome": "Palmeiras",
+        "Região": "Sudeste",
+        "Mascote": "Porco"
+    },
+
+    {
+        "Nome": "Santa Cruz",
+        "Região": "Nordeste",
+        "Mascote": "Cobra Coral"
+    },
+
+    {
+        "Nome": "Goias",
+        "Região": "Centro Oeste",
+        "Mascote": "Periquito"
+    },
+
+    {
+        "Nome": "Náutico",
+        "Região": "Nordeste",
+        "Mascote": "Timbú"
+    },
+
+    {
+        "Nome": "CSA",
+        "Região": "Nordeste",
+        "Mascote": "Azulão"
+    },
+
+    {
+        "Nome": "Internacional",
+        "Região": "Sul",
+        "Mascote": "Saci"
+    }
+    
+]
